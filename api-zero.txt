@@ -11,8 +11,11 @@ This is "<span id="k">Torrent Searcher API</span>" <!-- sjkfhskjf -->
 <span id="k">>>></span> <!-- sjkfhskjf -->Phishing sites that aim to steal your username and password.
 <span id="k">>>></span> <!-- sjkfhskjf -->Scam sites that aim to show fake errors or virus detection to get you to call a fake tech support number or download fake antivirus software.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p> If you don't know how to deal with this API, then go and get some <a href="help"> help</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p><a href="https://github.com/Ryuk-me/Torrents-Api">Git Repo</a></p>
+<p><a href="https://devilld.github.io/search.html">Search</a></p>
+<p><a href="https://t.me/trntsrcbot">Bot</a></p>
+<p><a href="https://github.com/Ryuk-me/Torrents-Api">Git Repo NODE</a></p>
+<p><a href="https://github.com/Ryuk-me/Torrent-Api-py">Git Repo PYTHON</a></p>
 
-You can reach me through telegram<!-- slightdelayhere-->, feel free to message <!-- longlonglongcomment --><a href="https://t.me/unkusr">me</a>.
+You can reach me through telegram<!-- slightdelayhere-->, feel free to message <!-- longlonglongcomment --><a href="https://t.me/unkusr">me</a>
 
 <p>Cheerio :)</p>
