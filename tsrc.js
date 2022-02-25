@@ -8,7 +8,7 @@ async function get_torrent() {
 
   const query = document.getElementById("query").value;
   if(query !== ''){
-    const api = "https://api.abirxo.cf/" +siteName +"/" +query;
+    const api = "https://api-dev.api-zero.workers.dev/" +siteName +"/" +query;
     
     const html = await axios.get(api);
     const torrents = await html.data;
