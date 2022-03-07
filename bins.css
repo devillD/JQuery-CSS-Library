@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@200&display=swap');
+
+*{
+    font-family: 'JetBrains Mono', monospace;
+}
+.background{
+    background: rgb(36,0,14);
+    background: linear-gradient(90deg, rgba(36,0,14,1) 7%, rgba(95,9,121,1) 67%, rgb(89, 0, 255) 100%);
+
+}
+
+
+.text1{
+    margin-top: 140px;
+    position: relative;
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    
+}
+
+.text3{
+    margin-top: 40px;
+    position: relative;
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    
+}
+purple{
+    color: rgb(255, 51, 170);
+    font-weight: bolder;
+}
+
+.text2{
+    margin-top: 0px;
+    position: relative;
+    text-align: center;
+    color: white;
+    font-weight: lighter;
+    
+}
+.item1{
+    background-color: black;
+    width: 350px;
+    border-style: groove;
+    border-width: 1px;
+    border-radius: 3px;
+    border-top-color: rgb(233, 85, 171);
+    border-left-color: rgb(231, 33, 149);
+
+    border-bottom-color: rgb(201, 54, 139);
+    border-right-color: rgb(226, 13, 138);
+    height: fit-content;
+    margin-top: 8px;
+}
+
+
+.item2{
+    background-color: black;
+    width: 350px;
+    border-style: groove;
+    border-width: 1px;
+    border-radius: 3px;
+    border-top-color: rgb(233, 85, 171);
+    border-left-color: rgb(231, 33, 149);
+
+    border-bottom-color: rgb(201, 54, 139);
+    border-right-color: rgb(226, 13, 138);
+    height: fit-content;
+    margin-top: 8px;
+}
+
+.item3{
+    background-color: black;
+    width: 350px;
+    border-style: groove;
+    border-width: 1px;
+    border-radius: 3px;
+    border-top-color: rgb(233, 85, 171);
+    border-left-color: rgb(231, 33, 149);
+
+    border-bottom-color: rgb(201, 54, 139);
+    border-right-color: rgb(226, 13, 138);
+    height: 75px;
+    margin-top: 8px;
+}
+
+
+.item4{
+    
+   
+    margin-top: 8px;
+    background-color: black;
+    width: 350px;
+    border-style: groove;
+    border-width: 1px;
+    border-radius: 3px;
+    border-top-color: rgb(233, 85, 171);
+    border-left-color: rgb(231, 33, 149);
+
+    border-bottom-color: rgb(201, 54, 139);
+    border-right-color: rgb(226, 13, 138);
+    height: fit-content;
+
+}
+.textfea{
+
+    position: relative;
+    color: white;
+    font-weight: lighter;
+    margin-left: 4px;
+    margin-right: 2px;
+    margin-top:2px;
+    
+    
+}
+.textfeao{
+    margin-top: 0px;
+    margin-left: 0px;
+    position: relative;
+    text-align: center;
+    color: white;
+    font-weight: lighter;
+}
+#smartpos{
+    margin-top: 5px;
+    position: relative;
+    text-align: center;
+    margin-left:870px;
+    
+}
+.buttons{
+    margin-top: 4px;
+    margin-bottom: 6px;
+    margin-left: 8px;
+    border-style: groove;
+    border-top-color: rgb(255, 44, 125);
+    border-left-color: rgb(255, 44, 125);
+    border-right-color: rgb(255, 40, 226);
+    border-bottom-color: rgb(255, 40, 226);
+    border-width: 2px;
+    font-size: 20px;
+    border-radius: 3px;
+    background-color: black;
+    color: white;
+    
+}
+
+.navmodern{
+    background-color: black;
+
+    border-radius: 1px;
+    position: relative;
+    margin-top: 0px;
+    padding-top: 0px;
+    opacity: 85%;
+    width: 100%;
+    height: fit-content;
+    margin-right: 0px;
+    border-style: groove;
+    border-top-color: rgb(255, 44, 125);
+    border-left-color: rgb(255, 44, 125);
+    border-right-color: rgb(255, 40, 226);
+    border-bottom-color: rgb(255, 40, 226);
+    border-width: 0.7px;
+}
+.buttons:hover{
+    font-weight: bolder;
+}
